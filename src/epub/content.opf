@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Viking prince vies for glory and control of a kingdom.</dc:abstract>
+		<meta property="schema:abstract">A Viking prince vies for glory and control of a kingdom.</meta>
 		<dc:description>
 			&lt;p&gt;The viking king Eric the Victorious rules his realm jointly with his brother, Olaf. Olaf’s queen gives birth to their only son, Biorn, and Olaf dies soon after; thus Eric adopts Biorn, giving him the epithet “Styrbiorn” because of his quick temper and stubborn disposition.&lt;/p&gt;
 			&lt;p&gt;As Styrbiorn matures, he seeks to seize the crown from his foster father Eric. But as his reputation for strength and valor grows, his haughtyness and tendency to anger and violence continually undermine his plans.&lt;/p&gt;
